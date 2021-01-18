@@ -1,0 +1,5 @@
+#!c:\\Users\\puran.MANEESHA\\anaconda3\\envs\\PSMBot-VA-Package\\python.exe
+
+echo "psmbot virtual assistant package"
+
+chmod +x PSMBot
